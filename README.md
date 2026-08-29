@@ -1,16 +1,26 @@
-## Hi there 👋
+# Tamás Demus
 
-<!--
-**demustamas/demustamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering & R&D leader working at the intersection of complex engineering systems, data, AI and organizational transformation.
 
-Here are some ideas to get you started:
+My background combines railway and mechanical engineering, engineering leadership, mathematics, data analytics and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current interests
+
+- Organizational AI adoption and diffusion
+- Complex systems and stochastic modelling
+- Machine learning and data analytics
+- Systems engineering and product development
+- Railway engineering and vehicle dynamics
+
+## Selected work
+
+My public repositories include projects in:
+
+- railway measurement and data acquisition
+- computer vision and deep learning
+- mathematical and stochastic modelling
+- engineering data analysis
+
+I am currently developing research around quantitative models of organizational AI adoption, including compartment, stochastic and network-based approaches.
+
+[LinkedIn](LINKEDIN_URL)

@@ -1,28 +1,25 @@
 # Tamás Demus
 
-Engineering & R&D leader working at the intersection of complex engineering systems, data, AI and organizational transformation.
+Engineering & R&D Leader working across complex engineering systems, product development, AI adoption and organizational transformation.tion.
 
 My background combines railway and mechanical engineering, engineering leadership, mathematics, data analytics and machine learning.
 
-## Current interests
+## Focus areas
 
+- Systems engineering and product development
 - Organizational AI adoption and diffusion
 - Complex systems and stochastic modelling
 - Machine learning and data analytics
-- Systems engineering and product development
 - Railway engineering and vehicle dynamics
 
 ## Selected work
 
-My work spans:
+### Railway Route Profile Measurement & Analysis
+Portable GNSS-based railway measurement system combining embedded data acquisition, Python-based processing and statistical analysis.
 
-- railway measurement and data acquisition
-- computer vision and deep learning
-- mathematical and stochastic modelling
-- engineering data analysis
+### Railway Track Defect Classification
+Computer-vision study comparing CNN and transfer-learning architectures for railway track defect classification, with particular focus on generalization and dataset limitations.
 
-Selected public projects are available below.
-
-I am currently developing research around quantitative models of organizational AI adoption, including compartment, stochastic and network-based approaches.
+Current research focuses on quantitative models of organizational AI adoption using compartment, stochastic and network-based approaches.
 
 [LinkedIn](https://www.linkedin.com/in/demust/)

@@ -14,13 +14,15 @@ My background combines railway and mechanical engineering, engineering leadershi
 
 ## Selected work
 
-My public repositories include projects in:
+My work spans:
 
 - railway measurement and data acquisition
 - computer vision and deep learning
 - mathematical and stochastic modelling
 - engineering data analysis
 
+Selected public projects are available below.
+
 I am currently developing research around quantitative models of organizational AI adoption, including compartment, stochastic and network-based approaches.
 
-[LinkedIn](LINKEDIN_URL)
+[LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/demust/))

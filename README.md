@@ -25,4 +25,4 @@ Selected public projects are available below.
 
 I am currently developing research around quantitative models of organizational AI adoption, including compartment, stochastic and network-based approaches.
 
-[LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/demust/))
+[LinkedIn](https://www.linkedin.com/in/demust/)
